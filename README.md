@@ -4,7 +4,7 @@
 
 A compact C++17 console project that models five smart-home devices inside a single bitmask while keeping the state logic separate from the menu UI.
 
-This repository began as a one-file bitmask prototype and was rebuilt into a focused C++17 utility with a reusable class, CMake, tests, and CI.
+The implementation separates reusable state logic from the console UI and includes CMake, CTest, and cross-platform CI.
 
 ## Devices
 
